@@ -1,0 +1,11 @@
+﻿  main_game.cpp
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,2): error C2065: 'tic': undeclared identifier
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,6): error C2065: 'tac': undeclared identifier
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,10): error C2653: 'toe': is not a class or namespace name
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,15): error C2065: 'MyForm': undeclared identifier
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,22): error C2146: syntax error: missing ';' before identifier 'form'
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(10,22): error C2065: 'form': undeclared identifier
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\tic-tac toe\main_game.cpp(11,21): error C2065: 'form': undeclared identifier
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

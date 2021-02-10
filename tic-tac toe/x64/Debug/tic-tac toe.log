@@ -1,0 +1,4 @@
+﻿  main_game.cpp
+C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\tic-tac toe\main_game.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  main_game.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  tic-tac toe.vcxproj -> C:\Users\Ezio\Documents\GitHub\tic-tac-toe-ui\x64\Debug\tic-tac toe.exe
